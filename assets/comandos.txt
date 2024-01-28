@@ -1,0 +1,5 @@
+npm init -y para iniciar o arquivo package.json sem fazer perguntas 
+npm i --save express@4.16.2 -E    o -E serve para diser que tem que instar aquela versão exata
+npm  i --save-dev nodemon@1.14.11 -E 
+
+A porta, geralmente a 8080, é a forma de selecionar qual processo vai atender aquela requisição 
